@@ -1,0 +1,95 @@
+{
+  "feature": [
+    {
+      "image": "/sc/images/top_promo/DCOE-2023.jpg",
+      "title": "2023年区议会一般选举",
+      "url": "https://www.elections.gov.hk/dc2023/sim/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/DCOE-2023a.jpg",
+      "title": "2023年区议会一般选举",
+      "url": "https://www.elections.gov.hk/dc2023/sim/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/PA2023_690.jpg",
+      "title": "行政长官 2023 年施政报告",
+      "url": "https://www.policyaddress.gov.hk/2023/sc/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/ban_effocbs.jpg",
+      "title": "跨境通办",
+      "url": "https://www.crossboundaryservices.gov.hk/sc/home/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/newborn-baby-bonus.png",
+      "title": "新生婴儿奖励金",
+      "url": "https://www.cso.gov.hk/newbornbabybonus/sc/index.htm"
+    },
+    {
+      "image": "/sc/images/top_promo/ban_cmabnational.jpg",
+      "title": "中华人民共和国国歌《义勇军进行曲》",
+      "url": "https://www.cmab.gov.hk/gb/issues/national_anthem.htm"
+    },
+    {
+      "image": "/sc/images/top_promo/NightVibesHK_690X445.png",
+      "title": "「香港夜缤纷」活动",
+      "url": "https://www.nightvibeshk.gov.hk/sc/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/HappyHK_690.jpg",
+      "title": "「开心香港」活动",
+      "url": "https://www.happyhk.gov.hk/sc/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/NSL3-690.png",
+      "title": "《香港国安法》颁布三周年展览",
+      "url": "https://nslexhibition.hk"
+    },
+    {
+      "image": "/sc/images/top_promo/Budget2023_690_post.jpg",
+      "title": "2023-24年度财政预算案",
+      "url": "https://www.budget.gov.hk/2023/sim/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/BlackSpots_690.jpg",
+      "title": "检视卫生黑点",
+      "url": "https://www.hygieneblackspots.gov.hk/hygiene-black-spots/page/highlights"
+    },
+    {
+      "image": "/sc/images/top_promo/NSL-Day_20230323.jpg",
+      "title": "全民国家安全教育日",
+      "url": "https://www.nsed.gov.hk/index.php?l=sc"
+    },
+    {
+      "image": "/sc/images/top_promo/Government-Clarifications_690.jpg",
+      "title": "政府澄清",
+      "url": "https://sc.news.gov.hk/TuniS/www.news.gov.hk/chi/categories/clarification/index.html"
+    },
+    {
+      "image": "/sc/images/top_promo/ban_hkpfio.jpg",
+      "title": "高等法院临时禁制令 (HCA 1886/2019)",
+      "url": "/sc/theme/courtorder/"
+    },
+    {
+      "image": "/sc/images/top_promo/ban_hkpfiio2.jpg",
+      "title": "高等法院临时禁制令 (HCA 1957/2019)",
+      "url": "/sc/theme/courtorder/index2.htm"
+    },
+    {
+      "image": "/sc/images/top_promo/ban_highcourtiio.jpg",
+      "title": "高等法院临时禁制令 (HCA 2007/2019)",
+      "url": "/sc/theme/courtorder/index3.htm"
+    },
+    {
+      "image": "/sc/images/top_promo/ogcio_banner_hca1847.jpg",
+      "title": "高等法院临时禁制令 (HCA 1847/2020)",
+      "url": "/sc/theme/courtorder/index4.htm"
+    },
+    {
+      "image": "/sc/images/top_promo/ban_hkpfcamp303.png",
+      "title": "禁制令申请 (CACV 274/2023 (原本案件：HCA 855/2023))",
+      "url": "/sc/theme/courtorder/index5.htm"
+    }
+  ],
+  "updateTime": "1700880315932"
+}
